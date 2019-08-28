@@ -48,7 +48,7 @@ html, body{
     color: #FFFFFF;
   }
 /*homepage*/
-.index{background-image: url(img/leaves3.png);
+.index{background-image: url(leaves3.png);
 background-position: center center;
  background-repeat: no-repeat;
  background-attachment: fixed;
